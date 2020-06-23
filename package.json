@@ -1,0 +1,27 @@
+{
+  "name": "condor-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ch1bs/Condor-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ch1bs/Condor-task/issues"
+  },
+  "homepage": "https://github.com/ch1bs/Condor-task#readme",
+  "devDependencies": {
+    "bootstrap": "^4.5.0",
+    "node-sass": "^4.14.1",
+    "font-awesome": "^4.7.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.1"
+  }
+}
